@@ -1,3 +1,4 @@
+![alt telegram-bash-system-monitoring](https://github.com/russellgrapes/telegram-bash-notification/blob/main/placeholder.png)
 
 # Telegram Bash Notification Script
 
