@@ -67,7 +67,7 @@ sudo yum install curl gawk sed
 Download the script directly using `curl`:
 
 ```bash
-curl -O https://raw.githubusercontent.com/yourusername/telegram-bash-notification/main/notification.sh
+curl -O https://raw.githubusercontent.com/russellgrapes/telegram-bash-notification/main/notification.sh
 ```
 
 ### Make the Script Executable
