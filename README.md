@@ -121,3 +121,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Author
 
 I write loops to skip out on life's hoops.
+
+Russell Grapes - www.grapes.team
+
+Project Link: https://github.com/russellgrapes/telegram-bash-notification
